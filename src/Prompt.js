@@ -7,7 +7,7 @@ import {
   TouchableWithoutFeedback,
   View
 } from 'react-native';
-import PropTypes from 'react';
+import PropTypes from 'prop-types';
 import styles from './styles';
 
 export default class Prompt extends Component {
